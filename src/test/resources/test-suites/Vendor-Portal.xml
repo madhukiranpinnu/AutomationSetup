@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >
+<suite name="Flight Reservation Suite" parallel="tests" thread-count="3">
+    <test name="Customer-john">
+        <parameter name="testdatapath" value="VendorData/john.json"/>
+        <classes>
+            <class name="Tests.VendorPortal.VendorDashboardTest"/>
+        </classes>
+    </test>
+    <test name="Customer-mike">
+        <parameter name="testdatapath" value="VendorData/mike.json"/>
+        <classes>
+            <class name="Tests.VendorPortal.VendorDashboardTest"/>
+        </classes>
+    </test>
+    <test name="Customer-sam">
+        <parameter name="testdatapath" value="VendorData/sam.json"/>
+        <classes>
+            <class name="Tests.VendorPortal.VendorDashboardTest"/>
+        </classes>
+    </test>
+</suite>

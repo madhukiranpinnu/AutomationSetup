@@ -1,0 +1,380 @@
+1073 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+3268 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+3357 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+676  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1203 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1243 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+721  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1240 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1283 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+12202 [main] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+12241 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+12276 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1734450693916
+371  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml] otherwise TestNG may fail or not work as expected.
+727  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+1251 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1329 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+14124 [main] INFO  p.F.FlightsConfirmationPage -- $584 USD
+14158 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+14202 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1734453685656
+670  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+2428 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2481 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+12988 [main] INFO  p.F.FlightsConfirmationPage -- $584 USD
+13027 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+13063 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1734454385122
+13454 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+13512 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+23520 [main] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+23544 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+23568 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1734454395606
+23827 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+23854 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+33702 [main] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+33727 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+33751 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1734454405794
+33997 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+34015 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+42747 [main] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+42774 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+42798 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1734454415089
+725  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+570  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+692  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+607  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+600  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1956 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2039 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+7619 [main] INFO  T.VendorPortal.VendorDashboardTest -- $215,000
+763  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2417 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2521 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+10076 [main] INFO  T.VendorPortal.VendorDashboardTest -- $215,000
+741  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+590  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+2207 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2302 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+3958 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/john.json
+7867 [main] INFO  T.VendorPortal.VendorDashboardTest -- $34,485
+607  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+1010 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1050 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2413 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/john.json
+5757 [main] INFO  T.VendorPortal.VendorDashboardTest -- $34,485
+7603 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+7619 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+8483 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/mike.json
+12722 [main] INFO  T.VendorPortal.VendorDashboardTest -- $563,300
+15679 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+15706 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+16563 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/sam.json
+19114 [main] INFO  T.VendorPortal.VendorDashboardTest -- $215,000
+762  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+1242 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1315 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+3144 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+9742 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+9810 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+11054 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+17131 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+17162 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+18098 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+24310 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+24322 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+25101 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+653  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+1133 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1164 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2507 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+11672 [main] INFO  p.F.FlightsConfirmationPage -- $584 USD
+11720 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+11750 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735007629730
+12131 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+12196 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+13037 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+22045 [main] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+22081 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+22100 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735007640045
+22341 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+22351 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+23200 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+30713 [main] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+30729 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+30754 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735007648776
+30997 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+31028 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+31923 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+40996 [main] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+41019 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+41050 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735007658827
+648  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+1139 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1167 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2559 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+12862 [main] INFO  p.F.FlightsConfirmationPage -- $584 USD
+12881 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+12906 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735007768314
+14689 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+14721 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+15463 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+22847 [main] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+22873 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+22896 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735007778336
+23095 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+23127 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+24114 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+35429 [main] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+35461 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+35487 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735007791351
+37371 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+37418 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+38312 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+48179 [main] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+48210 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+48226 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735007803700
+632  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+613  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+1143 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1191 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2884 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/john.json
+10436 [main] INFO  T.VendorPortal.VendorDashboardTest -- $34,485
+12589 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+12657 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+13525 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/mike.json
+15256 [main] INFO  T.VendorPortal.VendorDashboardTest -- $563,300
+16597 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+16645 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+17530 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/sam.json
+20764 [main] INFO  T.VendorPortal.VendorDashboardTest -- $215,000
+1442 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+972  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+1024 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+930  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+2521 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2848 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+5637 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+6173 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+6188 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+7165 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+7446 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+7493 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+8349 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+8598 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+8614 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+9527 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+946  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+1635 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+1704 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+4532 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/john.json
+8517 [main] INFO  T.VendorPortal.VendorDashboardTest -- $34,485
+10506 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+10551 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+11588 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/mike.json
+13866 [main] INFO  T.VendorPortal.VendorDashboardTest -- $563,300
+15179 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+15208 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\madhu\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+16175 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/sam.json
+19155 [main] INFO  T.VendorPortal.VendorDashboardTest -- $215,000
+947  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+17176 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+18630 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+19371 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+19972 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+1020 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+8361 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+10641 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+12372 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+16656 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+1146 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+5943 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+15598 [main] INFO  p.F.FlightsConfirmationPage -- $584 USD
+15624 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+15648 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735048714412
+17660 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+25467 [main] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+25497 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+25520 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735048724312
+28099 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+36915 [main] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+36935 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+36951 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735048736233
+38796 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+47226 [main] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+47262 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+47299 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735048746528
+992  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+5796 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/john.json
+10178 [main] INFO  T.VendorPortal.VendorDashboardTest -- $34,485
+13882 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/mike.json
+18534 [main] INFO  T.VendorPortal.VendorDashboardTest -- $563,300
+22053 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/sam.json
+25316 [main] INFO  T.VendorPortal.VendorDashboardTest -- $215,000
+1197 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+12514 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/john.json
+19820 [main] INFO  T.VendorPortal.VendorDashboardTest -- $34,485
+27069 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/mike.json
+32673 [main] INFO  T.VendorPortal.VendorDashboardTest -- $563,300
+39228 [main] INFO  utils.ResourceLoader -- reading resource from location: VendorData/sam.json
+43456 [main] INFO  T.VendorPortal.VendorDashboardTest -- $215,000
+1042 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+25826 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+44168 [main] INFO  p.F.FlightsConfirmationPage -- $584 USD
+45297 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+45400 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735049451013
+83501 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+110261 [main] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+110540 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+110717 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735049515769
+193094 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+227314 [main] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+227658 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+228073 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735049630368
+286528 [main] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+300960 [main] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+301013 [main] INFO  p.F.FlightsConfirmationPage -- $89 USD
+301064 [main] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735049707921
+1171 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\Vendor-Portal.xml
+
+9288 [TestNG-tests-3] INFO  utils.ResourceLoader -- reading resource from location: VendorData/sam.json
+9289 [TestNG-tests-2] INFO  utils.ResourceLoader -- reading resource from location: VendorData/mike.json
+14477 [TestNG-tests-1] INFO  utils.ResourceLoader -- reading resource from location: VendorData/john.json
+20013 [TestNG-tests-2] INFO  T.VendorPortal.VendorDashboardTest -- $563,300
+21600 [TestNG-tests-3] INFO  T.VendorPortal.VendorDashboardTest -- $215,000
+22507 [TestNG-tests-1] INFO  T.VendorPortal.VendorDashboardTest -- $34,485
+1389 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+9770 [TestNG-tests-2] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+9770 [TestNG-tests-4] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+12350 [TestNG-tests-1] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+17373 [TestNG-tests-3] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+33223 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- $584 USD
+33223 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+33248 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+33397 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- $89 USD
+33441 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- $89 USD
+33479 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- $89 USD
+33673 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050082785
+33691 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050081285
+33672 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050081309
+49617 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+49650 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- $89 USD
+49673 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050100665
+1228 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+34477 [TestNG-tests-3] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+34477 [TestNG-tests-4] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+47825 [TestNG-tests-1] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+47825 [TestNG-tests-2] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+82117 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+83020 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- $89 USD
+83076 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+83199 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- $89 USD
+83288 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050651400
+83521 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050652132
+90434 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+90434 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- $584 USD
+90590 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- $89 USD
+90608 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- $89 USD
+90682 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050659002
+90708 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050658699
+2036 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+90461 [TestNG-tests-4] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+90461 [TestNG-tests-1] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+90461 [TestNG-tests-2] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+90461 [TestNG-tests-3] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+155451 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+155595 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- $89 USD
+155707 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050896934
+157124 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+157214 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+157251 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- $89 USD
+157325 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- $89 USD
+157349 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050898332
+157453 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050898277
+157934 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- $584 USD
+158200 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- $89 USD
+158464 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735050899044
+1096 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\madhu\Workspace\AutomationPlace\AutomationSetup\src\test\resources\test-suites\flight-reservation.xml
+
+8882 [TestNG-tests-3] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/ThirdPassenger.json
+8882 [TestNG-tests-1] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/OnePassenger.json
+8882 [TestNG-tests-4] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/FourthPassenger.json
+8882 [TestNG-tests-2] INFO  utils.ResourceLoader -- reading resource from location: FlightReservation/TwoPassenger.json
+23157 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- $2338 USD
+23207 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- $89 USD
+23267 [TestNG-tests-4] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735051504534
+23358 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- $1169 USD
+23415 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- $89 USD
+23582 [TestNG-tests-2] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735051504546
+23963 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- $1753 USD
+24088 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- $89 USD
+24175 [TestNG-tests-3] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735051504670
+26186 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- $584 USD
+26239 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- $89 USD
+26294 [TestNG-tests-1] INFO  p.F.FlightsConfirmationPage -- 2024-12-1735051507369
